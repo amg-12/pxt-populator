@@ -3,10 +3,12 @@
 
 ## .
 
-Loading content. Please close this.
+Welcome to **The Code Zone**!
+
+Please press the ``||loops:▶||`` **Start** button in the corner.
 
 ```blocks
-loading
+code
 ```
 
 ```template
