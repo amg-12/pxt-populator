@@ -1,0 +1,15 @@
+{
+    "name": "Populator",
+    "version": "0.0.1",
+    "description": "Developed by Amitai",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "_onCodeStart.ts"
+    ],
+    "testFiles": [],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
