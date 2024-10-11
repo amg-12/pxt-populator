@@ -34,7 +34,7 @@
         "04-flowerpower-b",
         "04-flowerpower-c"
       ],
-      "image": "items/flower_dandelion"
+      "image": "block/flower_dandelion"
     },
     {
       "name": "Panda Panic",
