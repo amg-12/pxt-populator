@@ -1,10 +1,5 @@
-let content = [
-    "01-diggy-c",
-    "02-superbow-c",
-    "03-nuke-c",
-    "04-flowerpower-c",
-    "05-panda-c",
-    "06-stripmine-c"
-]
+// jsonformatter.org/json-minify
+// jsonformatter.org/json-escape
+const content = "{\"content\":[{\"name\":\"Diggy Diggy Hole\",\"ids\":[\"01-diggy-a\",\"01-diggy-b\",\"01-diggy-c\"],\"image\":\"items/iron_shovel\"},{\"name\":\"Super Bow\",\"ids\":[\"02-superbow-a\",\"02-superbow-b\",\"02-superbow-c\"],\"image\":\"items/bow_pulling_2\"},{\"name\":\"TNT Nuke\",\"ids\":[\"03-nuke-a\",\"03-nuke-b\",\"03-nuke-c\"],\"image\":\"blocks/tnt_side\"},{\"name\":\"Flower Power\",\"ids\":[\"04-flowerpower-a\",\"04-flowerpower-b\",\"04-flowerpower-c\"],\"image\":\"items/flower_dandelion\"},{\"name\":\"Panda Panic\",\"ids\":[\"05-panda-a\",\"05-panda-b\",\"05-panda-c\"]},{\"name\":\"Auto Strip Mining\",\"ids\":[\"06-stripmine-a\",\"06-stripmine-b\",\"06-stripmine-c\"],\"image\":\"items/diamond_pickaxe\"}]}"
 
-player.execute(`scriptevent tcz:populate ${content.join(" ")}`)
+json.send("populate", content)
