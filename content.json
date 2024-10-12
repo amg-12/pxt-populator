@@ -34,7 +34,7 @@
         "04-flowerpower-b",
         "04-flowerpower-c"
       ],
-      "image": "items/flower_dandelion"
+      "image": "blocks/flower_dandelion"
     },
     {
       "name": "Panda Panic",
@@ -229,7 +229,7 @@
         "30-treehouse-b.md",
         "30-treehouse-c.md"
       ],
-      "image": "blocks/sappling_oak"
+      "image": "blocks/sapling_oak"
     },
     {
       "name": "Iron Golem",
