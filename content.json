@@ -1,269 +1,165 @@
 {
   "content": [
     {
-      "name": "Diggy Diggy Hole",
-      "ids": [
-        "01-diggy-a",
-        "01-diggy-b",
-        "01-diggy-c"
-      ],
-      "image": "items/iron_shovel"
-    },
-    {
-      "name": "Super Bow",
-      "ids": [
-        "02-superbow-a",
-        "02-superbow-b",
-        "02-superbow-c"
-      ],
-      "image": "items/bow_pulling_2"
-    },
-    {
-      "name": "TNT Nuke",
-      "ids": [
-        "03-nuke-a",
-        "03-nuke-b",
-        "03-nuke-c"
-      ],
-      "image": "blocks/tnt_side"
-    },
-    {
-      "name": "Flower Power",
-      "ids": [
-        "04-flowerpower-a",
-        "04-flowerpower-b",
-        "04-flowerpower-c"
-      ],
-      "image": "blocks/flower_dandelion"
-    },
-    {
-      "name": "Panda Panic",
-      "ids": [
-        "05-panda-a",
-        "05-panda-b",
-        "05-panda-c"
-      ],
-      "image": "ui/icon_panda"
-    },
-    {
-      "name": "Auto Strip Mining",
-      "ids": [
-        "06-stripmine-a",
-        "06-stripmine-b",
-        "06-stripmine-c"
-      ],
-      "image": "items/diamond_pickaxe"
-    },
-    {
-      "name": "Charged Creeper",
-      "ids": [
-        "08-chargedcreeper-a",
-        "08-chargedcreeper-b",
-        "08-chargedcreeper-c"
-      ],
-      "image": "items/egg_creeper"
-    },
-    {
-      "name": "Tele Trident",
-      "ids": [
-        "09-teletrident-a",
-        "09-teletrident-b",
-        "09-teletrident-c"
-      ],
-      "image": "items/trident"
-    },
-    {
-      "name": "Bomber",
-      "ids": [
-        "10-bomber-a",
-        "10-bomber-b",
-        "10-bomber-c"
-      ],
-      "image": "blocks/tnt_side"
-    },
-    {
-      "name": "Slowdown Sword",
-      "ids": [
-        "11-slowdown-a",
-        "11-slowdown-b",
-        "11-slowdown-c"
-      ],
-      "image": "items/netherite_sword"
-    },
-    {
-      "name": "Making Pigs Fly",
-      "ids": [
-        "12-pigsfly-a",
-        "12-pigsfly-b",
-        "12-pigsfly-c"
-      ],
-      "image": "ui/levitation_effect"
-    },
-    {
-      "name": "Randomiser",
-      "ids": [
-        "13-randomiser-a",
-        "13-randomiser-b",
-        "13-randomiser-c"
+      "name": "Starter Codes",
+      "tutorials": [
+        {
+          "name": "Panda Panic",
+          "ids": ["05-panda-a", "05-panda-b", "05-panda-c"],
+          "image": "ui/icon_panda"
+        },
+        {
+          "name": "Flower Power",
+          "ids": ["04-flowerpower-a", "04-flowerpower-b", "04-flowerpower-c"],
+          "image": "blocks/flower_dandelion"
+        },
+        {
+          "name": "Change Gamemode",
+          "ids": ["21-gamemode-a", "21-gamemode-b", "21-gamemode-c"]
+        },
+        {
+          "name": "Always Daytime",
+          "ids": ["20-daytime-a", "20-daytime-b", "20-daytime-c"],
+          "image": "items/clock_item"
+        },
+        {
+          "name": "Weather Change",
+          "ids": ["19-weather-a", "19-weather-b", "19-weather-c"],
+          "image": "items/bucket_water"
+        }
       ]
     },
     {
-      "name": "Flying Carpet",
-      "ids": [
-        "14-flyingcarpet-a",
-        "14-flyingcarpet-b",
-        "14-flyingcarpet-c"
-      ],
-      "image": "blocks/wool_colored_red"
-    },
+      "name": "Super Powers",
+      "tutorials": [
         {
-      "name": "Firework Spawner",
-      "ids": [
-        "15-fireworks-a",
-        "15-fireworks-b",
-        "15-fireworks-c"
-      ],
-      "image": "items/fireworks"
-    },
+          "name": "Auto Strip Mining",
+          "ids": ["06-stripmine-a", "06-stripmine-b", "06-stripmine-c"],
+          "image": "items/diamond_pickaxe"
+        },
         {
-      "name": "Firepits",
-      "ids": [
-        "16-firepits-a",
-        "16-firepits-b",
-        "16-firepits-c"
-      ],
-      "image": "blocks/fire_0_placeholder"
-    },
-    {
-      "name": "Creeper Deterrent",
-      "ids": [
-        "17-creepercat-a",
-        "17-creepercat-b",
-        "17-creepercat-c"
+          "name": "Flying Carpet",
+          "ids": [
+            "14-flyingcarpet-a", "14-flyingcarpet-b", "14-flyingcarpet-c"
+          ],
+          "image": "blocks/wool_colored_red"
+        },
+        {
+          "name": "Time Machine",
+          "ids": ["37-timemachine-a", "37-timemachine-b", "37-timemachine-c"],
+          "image": "items/clock_item"
+        },
+        {
+          "name": "Tele Trident",
+          "ids": ["09-teletrident-a", "09-teletrident-b", "09-teletrident-c"],
+          "image": "items/trident"
+        },
+        {
+          "name": "Creeper Deterrent",
+          "ids": ["17-creepercat-a", "17-creepercat-b", "17-creepercat-c"]
+        },
+        {
+          "name": "Agent Attack",
+          "ids": ["24-agentattack-a", "24-agentattack-b", "24-agentattack-c"],
+          "image": "ui/icon_agent"
+        },
+        {
+          "name": "Infinite Ladder",
+          "ids": ["29-ladder-a", "29-ladder-b", "29-ladder-c"],
+          "image": "blocks/ladder"
+        },
+        {
+          "name": "Iron Golem",
+          "ids": ["31-irongolem-a", "31-irongolem-b", "31-irongolem-c"],
+          "image": "items/iron_ingot"
+        },
+        {
+          "name": "Snow Golem",
+          "ids": ["32-snowgolem-a", "32-snowgolem-b", "32-snowgolem-c"],
+          "image": "blocks/pumpkin_face_off"
+        },
+        {
+          "name": "Making Pigs Fly",
+          "ids": ["12-pigsfly-a", "12-pigsfly-b", "12-pigsfly-c"],
+          "image": "ui/levitation_effect"
+        },
+        {
+          "name": "Wingardium Leviosa",
+          "ids": ["28-leviosa-a", "28-leviosa-b", "28-leviosa-c"],
+          "image": "ui/levitation_effect"
+        },
+        {
+          "name": "Diamond Hunt",
+          "ids": ["25-diamondhunt-a", "25-diamondhunt-b", "25-diamondhunt-c"],
+          "image": "items/diamond"
+        }
       ]
     },
+    {
+      "name": "Great Builds",
+      "tutorials": [
         {
-      "name": "Enchanter",
-      "ids": [
-        "18-enchanter-a",
-        "18-enchanter-b",
-        "18-enchanter-c"
-      ],
-      "image": "blocks/bookshelf"
-    },
+          "name": "Firepits",
+          "ids": ["16-firepits-a", "16-firepits-b", "16-firepits-c"],
+          "image": "blocks/fire_0_placeholder"
+        },
         {
-      "name": "Weather Change",
-      "ids": [
-        "19-weather-a",
-        "19-weather-b",
-        "19-weather-c"
-      ],
-      "image": "items/bucket_water"
-    },
+          "name": "Treehouse",
+          "ids": ["30-treehouse-a", "30-treehouse-b", "30-treehouse-c"],
+          "image": "blocks/sapling_oak"
+        },
         {
-      "name": "Always Daytime",
-      "ids": [
-        "20-daytime-a",
-        "20-daytime-b",
-        "20-daytime-c"
-      ],
-      "image": "items/clock_item"
-    },
+          "name": "Firework Spawner",
+          "ids": ["15-fireworks-a", "15-fireworks-b", "15-fireworks-c"],
+          "image": "items/fireworks"
+        },
         {
-      "name": "Gamemode",
-      "ids": [
-        "21-gamemode-a",
-        "21-gamemode-b",
-        "21-gamemode-c"
+          "name": "Enchanter",
+          "ids": ["18-enchanter-a", "18-enchanter-b", "18-enchanter-c"],
+          "image": "blocks/bookshelf"
+        },
+        {
+          "name": "Title Crawl",
+          "ids": ["41-titlecrawl-a", "41-titlecrawl-b", "41-titlecrawl-c"]
+        }
       ]
     },
+    {
+      "name": "Chaos & Destruction",
+      "tutorials": [
         {
-      "name": "Agent Attack",
-      "ids": [
-        "24-agentattack-a",
-        "24-agentattack-b",
-        "24-agentattack-c"
-      ],
-      "image": "ui/icon_agent"
-    },
-    {
-      "name": "Diamond Hunt",
-      "ids": [
-        "25-diamondhunt-a",
-        "25-diamondhunt-b",
-        "25-diamondhunt-c"
-      ],
-      "image": "items/diamond"
-    },
-    {
-      "name": "Agent Follow",
-      "ids": [
-        "27-agentfollow-a",
-        "27-agentfollow-b",
-        "27-agentfollow-c"
-      ],
-      "image": "ui/icon_agent"
-    },
-    {
-      "name": "Wingardium Leviosa",
-      "ids": [
-        "28-leviosa-a",
-        "28-leviosa-b",
-        "28-leviosa-c"
-      ],
-      "image": "ui/levitation_effect"
-    },
-    {
-      "name": "Infinite Ladder",
-      "ids": [
-        "29-ladder-a",
-        "29-ladder-b",
-        "29-ladder-c"
-      ],
-      "image": "blocks/ladder"
-    },
-    {
-      "name": "Treehouse",
-      "ids": [
-        "30-treehouse-a",
-        "30-treehouse-b",
-        "30-treehouse-c"
-      ],
-      "image": "blocks/sapling_oak"
-    },
-    {
-      "name": "Iron Golem",
-      "ids": [
-        "31-irongolem-a",
-        "31-irongolem-b",
-        "31-irongolem-c"
-      ],
-      "image": "items/iron_ingot"
-    },
-    {
-      "name": "Snow Golem",
-      "ids": [
-        "32-snowgolem-a",
-        "32-snowgolem-b",
-        "32-snowgolem-c"
-      ],
-      "image": "blocks/pumpkin_face_off"
-    },
-    {
-      "name": "Time Machine",
-      "ids": [
-        "37-timemachine-a",
-        "37-timemachine-b",
-        "37-timemachine-c"
-      ],
-      "image": "items/clock_item"
-    },
-    {
-      "name": "Title Crawl",
-      "ids": [
-        "41-titlecrawl-a",
-        "41-titlecrawl-b",
-        "41-titlecrawl-c"
+          "name": "Diggy Diggy Hole",
+          "ids": ["01-diggy-a", "01-diggy-b", "01-diggy-c"],
+          "image": "items/iron_shovel"
+        },
+        {
+          "name": "Randomiser",
+          "ids": ["13-randomiser-a", "13-randomiser-b", "13-randomiser-c"]
+        },
+        {
+          "name": "Super Bow",
+          "ids": ["02-superbow-a", "02-superbow-b", "02-superbow-c"],
+          "image": "items/bow_pulling_2"
+        },
+        {
+          "name": "Bomber",
+          "ids": ["10-bomber-a", "10-bomber-b", "10-bomber-c"],
+          "image": "blocks/tnt_side"
+        },
+        {
+          "name": "Charged Creeper",
+          "ids": [
+            "08-chargedcreeper-a",
+            "08-chargedcreeper-b",
+            "08-chargedcreeper-c"
+          ],
+          "image": "items/egg_creeper"
+        },
+        {
+          "name": "TNT Nuke",
+          "ids": ["03-nuke-a", "03-nuke-b", "03-nuke-c"],
+          "image": "blocks/tnt_side"
+        }
       ]
     }
   ]
